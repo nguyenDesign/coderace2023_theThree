@@ -12,6 +12,7 @@ The Three
 
    /src/ECU_Requirement.rst
    /src/Test.rst
+   /src/t.rst
 
 Indices and tables
 ==================
